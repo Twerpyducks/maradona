@@ -1,116 +1,116 @@
 {
-    "Argentinos Juniors": [
+  "Argentinos Juniors": [
     {
-        "year": 1976,
-        "appearances": 11,
-        "goals": 2
+      "year": 1976,
+      "appearances": 11,
+      "goals": 2
     },
     {
-        "year": 1977,
-        "appearances": 49,
-        "goals": 19
+      "year": 1977,
+      "appearances": 49,
+      "goals": 19
     },
     {
-        "year": 1978,
-        "appearances": 35,
-        "goals": 26
+      "year": 1978,
+      "appearances": 35,
+      "goals": 26
     },
     {
-        "year": 1979,
-        "appearances": 26,
-        "goals": 26
+      "year": 1979,
+      "appearances": 26,
+      "goals": 26
     },
     {
-        "year": 1980,
-        "appearances": 45,
-        "goals": 43
+      "year": 1980,
+      "appearances": 45,
+      "goals": 43
     }
-    ],
-    "Boca Juniors": [
+  ],
+  "Boca Juniors": [
     {
-        "year": 1981,
-        "appearances": 40,
-        "goals": 28
+      "year": 1981,
+      "appearances": 40,
+      "goals": 28
     }
-    ],
-    "Barcelona": [
+  ],
+  "Barcelona": [
     {
-        "year": 1982,
-        "appearances": 35,
-        "goals": 23
+      "year": 1982,
+      "appearances": 35,
+      "goals": 23
     },
     {
-        "year": 1983,
-        "appearances": 23,
-        "goals": 15
+      "year": 1983,
+      "appearances": 23,
+      "goals": 15
     }
-    ],
-    "Napoli": [
+  ],
+  "Napoli": [
     {
-        "year": 1984,
-        "appearances": 36,
-        "goals": 17
-    },
-     {
-        "year": 1985,
-        "appearances": 31,
-        "goals": 13
-    },
-     {
-        "year": 1986,
-        "appearances": 41,
-        "goals": 17
-    },
-     {
-        "year": 1987,
-        "appearances": 39,
-        "goals": 21
-    },
-     {
-        "year": 1988,
-        "appearances": 50,
-        "goals": 19
-    },
-     {
-        "year": 1989,
-        "appearances": 36,
-        "goals": 18
+      "year": 1984,
+      "appearances": 36,
+      "goals": 17
     },
     {
-        "year": 1990,
-        "appearances": 26,
-        "goals": 10
+      "year": 1985,
+      "appearances": 31,
+      "goals": 13
+    },
+    {
+      "year": 1986,
+      "appearances": 41,
+      "goals": 17
+    },
+    {
+      "year": 1987,
+      "appearances": 39,
+      "goals": 21
+    },
+    {
+      "year": 1988,
+      "appearances": 50,
+      "goals": 19
+    },
+    {
+      "year": 1989,
+      "appearances": 36,
+      "goals": 18
+    },
+    {
+      "year": 1990,
+      "appearances": 26,
+      "goals": 10
     }
-    ],
-    "Sevilla": [
+  ],
+  "Sevilla": [
     {
-        "year": 1992,
-        "appearances": 29,
-        "goals": 8
+      "year": 1992,
+      "appearances": 29,
+      "goals": 8
     }
-    ],
-    "Newell's Old Boys": [
+  ],
+  "Newell's Old Boys": [
     {
-        "year": 1993,
-        "appearances": 5,
-        "goals": 0
+      "year": 1993,
+      "appearances": 5,
+      "goals": 0
     }
-    ],
-    "Boca Juniors": [
+  ],
+  "Boca Juniors": [
     {
-        "year": 1995,
-        "appearances": 24,
-        "goals": 5
+      "year": 1995,
+      "appearances": 24,
+      "goals": 5
     },
     {
-        "year": 1996,
-        "appearances": 2,
-        "goals": 0
+      "year": 1996,
+      "appearances": 2,
+      "goals": 0
     },
     {
-        "year": 1997,
-        "appearances": 5,
-        "goals": 2
+      "year": 1997,
+      "appearances": 5,
+      "goals": 2
     }
-]
+  ]
 }
